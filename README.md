@@ -18,7 +18,7 @@ This machine learning project analyzes the relationship between Gen Z social med
 ### Key Characteristics
 - **Size**: 1,000,000 records
 - **Format**: CSV
-- **Location**: `/data/genz_social_media_usage_1Million.csv`
+- **Location**: https://www.kaggle.com/datasets/sharmajicoder/gen-z-social-media-usage-dataset
 
 ### Main Features
 
